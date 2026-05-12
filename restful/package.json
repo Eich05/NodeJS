@@ -9,7 +9,7 @@
   "author": "Lucas Eich",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "1.19.0",
+    "body-parser": "1.18.2",
     "consign": "0.1.6",
     "ejs": "2.7.4",
     "express": "4.17.1",
